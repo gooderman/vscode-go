@@ -1,0 +1,17 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+    "window.zoomLevel": 0,
+    "go.buildOnSave": true,
+    "go.lintOnSave": true,
+    "go.vetOnSave": true,
+    "go.buildFlags": [],
+    "go.lintFlags": [],
+    "go.vetFlags": [],
+    "go.useCodeSnippetsOnFunctionSuggest": false,
+    "go.formatOnSave": true,
+    "go.formatTool": "goreturns",
+    //"go.goroot": "/usr/local/Cellar/go/1.8.3/libexec",
+    "go.goroot": "/usr/local/bin",
+    "go.gopath": "/Users/jeep/go",
+    "files.autoSave": "onFocusChange"
+}
