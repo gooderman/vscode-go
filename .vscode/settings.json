@@ -10,8 +10,7 @@
     "go.useCodeSnippetsOnFunctionSuggest": false,
     "go.formatOnSave": true,
     "go.formatTool": "goreturns",
-    //"go.goroot": "/usr/local/Cellar/go/1.8.3/libexec",
-    "go.goroot": "/usr/local/bin",
+    "go.goroot": "/usr/local/Cellar/go/1.8.3/libexec",
     "go.gopath": "/Users/jeep/go",
     "files.autoSave": "onFocusChange"
 }
